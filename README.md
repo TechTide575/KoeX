@@ -24,13 +24,6 @@ VTuber、配信者、ゲーム実況者、通話など、あらゆるシーン�
 
 - 💻 **Windows対応（macOS/Linux予定）**
 
----
-
-## 🖼️ **スクリーンショット**
-
-![KoeX Screenshot](https://example.com/screenshot.png)  
-*アプリのインターフェース例です。直感的に操作できるUIです！*
-
 
 ## 開発中
 開発のお手伝いお願いします！
